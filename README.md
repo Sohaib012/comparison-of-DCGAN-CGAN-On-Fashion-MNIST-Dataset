@@ -32,7 +32,7 @@ This repository contains code for comparison of DCGAN and CGAN On Fashion MNIST 
      pip install numpy
      ```
   **Flanker Task**
-  - Obtained from [Openfmri.org Flanker Task](https://openfmri.org/s3-browser/?prefix=ds000001/ds000001_R1.0.0).
+  - Toy dataset obtained from keras.datasets. The Fashion MNIST dataset consists of 70,000 grayscale (single channel) images comprising of 60,000 training images and 10,000 testing images, each of size 28x28 pixels. These images are divided into 10 classes including T-shirts/tops, trousers, pullovers, dresses, coats, sandals, shirts, sneakers, bags, and ankle boots.
 
 ## Usage
  
